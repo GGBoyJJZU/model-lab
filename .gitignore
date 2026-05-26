@@ -1,0 +1,18 @@
+# SolidWorks 临时文件
+~$*
+*.swp
+*.swo
+*.bak
+*~
+.~*.*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.temp
