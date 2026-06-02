@@ -1,0 +1,4 @@
+nicegui>=3.0
+pywebview>=5.0
+trimesh>=4.0
+numpy>=1.24

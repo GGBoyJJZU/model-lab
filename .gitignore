@@ -16,3 +16,13 @@ desktop.ini
 # 临时文件
 *.tmp
 *.temp
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude 配置
+.claude/
+
+# 输出目录
+output/
